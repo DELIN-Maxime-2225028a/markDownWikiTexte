@@ -17,8 +17,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Stalbokoblin | ![Stalbokoblin](https://static.wikia.nocookie.net/zelda/images/5/5e/BOTW_Stalbokoblin_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234716&path-prefix=fr) | 1 | Croc de Bokoblin </br> Corne de Bokoblin ||
 | Bokoblin d'argent | ![BokoblinDArgent](https://static.wikia.nocookie.net/zelda/images/0/03/BOTW_Bokoblin_Argent_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234729&path-prefix=fr) | 720 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
 | Bokoblin doré | ![BokoblinDoré](https://static.wikia.nocookie.net/zelda/images/1/15/150px-BotW_Hyrule_Compendium_Golden_Bokoblin.jpg/revision/latest?cb=20180602041724&path-prefix=fr) | 1080 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
-  
-\_                                                                                                                                                       \_
+                                                                                                                                                         \_
   
 * ##### Moblins
 
@@ -37,4 +36,30 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Lézalfos      |     Centre      |         Droite |       |       |
 | Lynel         |   Alignée au    |      Alignée à |       |       |
 
+### Liste des mini-boss :  
 
+* #### Hinox
+
+| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Hinox         |   Alignée au    |      Alignée à |       |       |
+| Hinox bleu    |   Alignée au    |      Alignée à |       |       |
+| Hinox noir    |   Alignée au    |      Alignée à |       |       |
+| Stalhinox     |     Centre      |         Droite |       |       |
+
+* #### Lythorok
+
+| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Lythorok      |   Alignée au    |      Alignée à |       |       |
+| Lythorok nox  |   Alignée au    |      Alignée à |       |       |
+| Lythorok rare |   Alignée au    |      Alignée à |       |       |
+| Magrok        |   Alignée au    |      Alignée à |       |       |
+| Cryorok       |   Alignée au    |      Alignée à |       |       |
+
+* #### Moldaquor
+
+| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Moldaquor     |   Alignée au    |      Alignée à |       |       |
+| *Arquor Rex**   |     Centre      |         Droite |       |       |
