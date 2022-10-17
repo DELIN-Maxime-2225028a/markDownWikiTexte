@@ -6,10 +6,10 @@
 
 ### Liste des ennemis :
 
-| Nom       |     apparence     |        points de vie |
-| :------------ | :-------------: | -------------: |
-| Colonne       |     Colonne     |        Colonne |
-| Alignée à     |   Alignée au    |      Alignée à |
-| Gauche        |     Centre      |         Droite |
+| Nom           |   apparence     |  points de vie | loot  | Armes |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Colonne       |     Colonne     |        Colonne |       |       |
+| Alignée à     |   Alignée au    |      Alignée à |       |       |
+| Gauche        |     Centre      |         Droite |       |       |
 
 
