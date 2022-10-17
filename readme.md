@@ -40,16 +40,16 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 
 * #### Hinox
 
-| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
 | :------------ | :-------------: | -------------: | :---: | :---: |
-| Hinox         |   Alignée au    |      Alignée à |       |       |
-| Hinox bleu    |   Alignée au    |      Alignée à |       |       |
-| Hinox noir    |   Alignée au    |      Alignée à |       |       |
-| Stalhinox     |     Centre      |         Droite |       |       |
+| Hinox         |   Alignée au    |      600 |   Forme de base    |    Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Pomme <br> Baie <br> Noix de coco <br> Fruit volt <br> Banane lame <br> Citrouille armo <br> Durian max    |
+| Hinox bleu    |   Alignée au    |      800 |   Fais plus de dégâts <br> Possède parfois des protections en bois sur les jambes    |    Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Perche grillée <br> Perche max grillée <br> Saumon max grillé <br> Truite grillée <br> Carpe grillée <br> Daurade grillée <br> Escargot silencio grillé <br> Turbo max grillé <br> Crabe grillé    |
+| Hinox noir    |   Alignée au    |     1000 |    Fais de gros dégâts <br> Utilise des armes <br> Peut lancer des tonneaux explosifs <br> Possède des protections en métal sur les jambes   |   Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Viande grillée <br> Viande fine grillée <br> Viande divine grillée <br> Volaille grillée <br> Volaille fine grillée <br> Volaille divine grillée    |
+| Stalhinox     |     Centre      |     1000 |    Fais de gros dégâts <br> Ne peut mourir que si son œil a subi suffisamment de dégâts   |    Dent d'Hinox    |
 
 * #### Lythorok
 
-| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Lythorok      |   Alignée au    |      Alignée à |       |       |
 | Lythorok nox  |   Alignée au    |      Alignée à |       |       |
@@ -59,7 +59,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 
 * #### Moldaquor
 
-| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Moldaquor     |   Alignée au    |      Alignée à |       |       |
 | *Arquor Rex**   |     Centre      |         Droite |       |       |
