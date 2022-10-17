@@ -16,11 +16,16 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Bokoblin noir | ![BokoblinNoir](https://static.wikia.nocookie.net/zelda/images/5/57/BOTW_Bokoblin_Noir_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234300&path-prefix=fr) | 240 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin ||
 | Stalbokoblin | ![Stalbokoblin](https://static.wikia.nocookie.net/zelda/images/5/5e/BOTW_Stalbokoblin_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234716&path-prefix=fr) | 1 | Croc de Bokoblin </br> Corne de Bokoblin ||
 | Bokoblin d'argent | ![BokoblinDArgent](https://static.wikia.nocookie.net/zelda/images/0/03/BOTW_Bokoblin_Argent_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234729&path-prefix=fr) | 720 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
+
 | *Bokoblin doré* | ![BokoblinDoré](https://static.wikia.nocookie.net/zelda/images/1/15/150px-BotW_Hyrule_Compendium_Golden_Bokoblin.jpg/revision/latest?cb=20180602041724&path-prefix=fr) | 1080 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
   
   **Disponible
   
 ----
+=======
+| Bokoblin doré | ![BokoblinDoré](https://static.wikia.nocookie.net/zelda/images/1/15/150px-BotW_Hyrule_Compendium_Golden_Bokoblin.jpg/revision/latest?cb=20180602041724&path-prefix=fr) | 1080 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
+                                                                                                                                                         \_
+
   
 * ##### Moblins
 
@@ -96,6 +101,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 
 ----
 
+
 * ##### Octorok
 
 | Nom | apparence | points de vie | loot | Armes |
@@ -118,3 +124,32 @@ https://zelda.fandom.com/fr/wiki/Cat%C3%A9gorie:Ennemis_de_Breath_of_the_Wild
 | Nom | apparence | points de vie | loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 |  | ![]() |  | |  |
+=======
+### Liste des mini-boss :  
+
+* #### Hinox
+
+| Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Hinox         |   Alignée au    |      600 |   Forme de base    |    Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Pomme <br> Baie <br> Noix de coco <br> Fruit volt <br> Banane lame <br> Citrouille armo <br> Durian max    |
+| Hinox bleu    |   Alignée au    |      800 |   Fais plus de dégâts <br> Possède parfois des protections en bois sur les jambes    |    Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Perche grillée <br> Perche max grillée <br> Saumon max grillé <br> Truite grillée <br> Carpe grillée <br> Daurade grillée <br> Escargot silencio grillé <br> Turbo max grillé <br> Crabe grillé    |
+| Hinox noir    |   Alignée au    |     1000 |    Fais de gros dégâts <br> Utilise des armes <br> Peut lancer des tonneaux explosifs <br> Possède des protections en métal sur les jambes   |   Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Viande grillée <br> Viande fine grillée <br> Viande divine grillée <br> Volaille grillée <br> Volaille fine grillée <br> Volaille divine grillée    |
+| Stalhinox     |     Centre      |     1000 |    Fais de gros dégâts <br> Ne peut mourir que si son œil a subi suffisamment de dégâts   |    Dent d'Hinox    |
+
+* #### Lythorok
+
+| Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Lythorok      |   Alignée au    |      Alignée à |       |       |
+| Lythorok nox  |   Alignée au    |      Alignée à |       |       |
+| Lythorok rare |   Alignée au    |      Alignée à |       |       |
+| Magrok        |   Alignée au    |      Alignée à |       |       |
+| Cryorok       |   Alignée au    |      Alignée à |       |       |
+
+* #### Moldaquor
+
+| Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Moldaquor     |   Alignée au    |      Alignée à |       |       |
+| *Arquor Rex**   |     Centre      |         Droite |       |       |
+
