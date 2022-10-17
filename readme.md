@@ -7,7 +7,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 
 ### Liste des ennemis :
 
-| Nom           |   apparence     |  points de vie | loot  | Armes |
+| Nom           |   Apparence     |  Points de vie | Loot  | Armes tenues |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Bokoblin      | ![Bokoblin](https://static.wikia.nocookie.net/zelda/images/5/57/BOTW_Encyclop%C3%A9die_Bokoblin.png/revision/latest/scale-to-width-down/120?cb=20170812215749&path-prefix=fr)     | <center> 13 </center> | Croc de Bokoblin </br> Corne de Bokoblin |       |
 | Moblin        |   Alignée au    |      Alignée à |       |       |
@@ -15,4 +15,27 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Lézalfos      |     Centre      |         Droite |       |       |
 | Lynel         |   Alignée au    |      Alignée à |       |       |
 
+### Liste des mini-boss :  
 
+* Hinox
+| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Hinox         |   Alignée au    |      Alignée à |       |       |
+| Hinox bleu    |   Alignée au    |      Alignée à |       |       |
+| Hinox noir    |   Alignée au    |      Alignée à |       |       |
+| Stalhinox     |     Centre      |         Droite |       |       |
+
+* Lythorok
+| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Lythorok      |   Alignée au    |      Alignée à |       |       |
+| Lythorok nox  |   Alignée au    |      Alignée à |       |       |
+| Lythorok rare |   Alignée au    |      Alignée à |       |       |
+| Magrok        |   Alignée au    |      Alignée à |       |       |
+| Cryorok       |   Alignée au    |      Alignée à |       |       |
+
+* Moldaquor
+| Nom           |   Apparence     |  Points de vie | Point Faible  | Loot |
+| :------------ | :-------------: | -------------: | :---: | :---: |
+| Moldaquor     |   Alignée au    |      Alignée à |       |       |
+| *Arquor Rex**   |     Centre      |         Droite |       |       |
