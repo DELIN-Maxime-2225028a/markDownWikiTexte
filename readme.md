@@ -8,8 +8,10 @@
 
 | Nom           |   apparence     |  points de vie | loot  | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
-| Colonne       |     Colonne     |        Colonne |       |       |
-| Alignée à     |   Alignée au    |      Alignée à |       |       |
-| Gauche        |     Centre      |         Droite |       |       |
+| Bokoblin      | ![Bokoblin](https://static.wikia.nocookie.net/zelda/images/a/af/Bokoblin_Artwork_BOTW.png/revision/latest/top-crop/width/200/height/150?cb=20160620112616&path-prefix=fr)     |        Colonne |       |       |
+| Moblin        |   Alignée au    |      Alignée à |       |       |
+| Yiga          |   Alignée au    |      Alignée à |       |       |
+| Lézalfos      |     Centre      |         Droite |       |       |
+| Lynel         |   Alignée au    |      Alignée à |       |       |
 
 
