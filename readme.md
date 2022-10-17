@@ -17,9 +17,9 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Stalbokoblin | ![Stalbokoblin](https://static.wikia.nocookie.net/zelda/images/5/5e/BOTW_Stalbokoblin_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234716&path-prefix=fr) | 1 | Croc de Bokoblin </br> Corne de Bokoblin ||
 | Bokoblin d'argent | ![BokoblinDArgent](https://static.wikia.nocookie.net/zelda/images/0/03/BOTW_Bokoblin_Argent_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234729&path-prefix=fr) | 720 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
 | Bokoblin doré | ![BokoblinDoré](https://static.wikia.nocookie.net/zelda/images/1/15/150px-BotW_Hyrule_Compendium_Golden_Bokoblin.jpg/revision/latest?cb=20180602041724&path-prefix=fr) | 1080 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
-
---
-
+  
+  
+  
 * ##### Moblins
 
 | Nom | apparence | points de vie | loot | Armes |
