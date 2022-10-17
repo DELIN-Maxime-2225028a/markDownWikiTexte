@@ -8,8 +8,7 @@
 
 | Nom           |   apparence     |  points de vie | loot  | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
-| Bokoblin      | ![Bokoblin](https://static.wikia.nocookie.net/zelda/images/5/57/BOTW_Encyclop%C3%A9die_Bokoblin.png/revision/latest/scale-to-width-down/120?cb=20170812215749&path-prefix=fr)     | 13 | Croc de Bokoblin  
-Corne de Bokoblin |       |
+| Bokoblin      | ![Bokoblin](https://static.wikia.nocookie.net/zelda/images/5/57/BOTW_Encyclop%C3%A9die_Bokoblin.png/revision/latest/scale-to-width-down/120?cb=20170812215749&path-prefix=fr)     | 13 | Croc de Bokoblin    Corne de Bokoblin |       |
 | Moblin        |   Alignée au    |      Alignée à |       |       |
 | Yiga          |   Alignée au    |      Alignée à |       |       |
 | Lézalfos      |     Centre      |         Droite |       |       |
