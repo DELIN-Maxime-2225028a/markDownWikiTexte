@@ -42,7 +42,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Nom | apparence | points de vie | loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Sous-fifre Yiga | ![SousFifreYiga](https://static.wikia.nocookie.net/zelda/images/f/f6/BOTW_Encyclopedie_Sous_fifre_Yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317165955&path-prefix=fr) | 64 | Bananes lame </br> Rubis (vert à violet) </br> Arc à double encoche </br> Serpe Coupe-Gorge </br> Tranche-Démons |       |
-| *Sous-fifre Yiga** | ![SousFifreYiga](https://static.wikia.nocookie.net/zelda/images/f/f6/BOTW_Encyclopedie_Sous_fifre_Yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317165955&path-prefix=fr) | 64 | Bananes lame </br> Rubis (vert à violet) </br> Arc à double encoche </br> Serpe Coupe-Gorge </br> Tranche-Démons |       |
+| *Sous-fifre Yiga** | ![SousFifreYiga](https://static.wikia.nocookie.net/zelda/images/f/f6/BOTW_Encyclopedie_Sous_fifre_Yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317165955&path-prefix=fr) | 72 | Bananes lame </br> Rubis (vert à violet) </br> Arc à double encoche </br> Serpe Coupe-Gorge </br> Tranche-Démons |       |
 | Officier Yiga | ![OfficierYiga](https://static.wikia.nocookie.net/zelda/images/7/72/BOTW_Encyclopedie_Officier_yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317170105&path-prefix=fr) | 400 | Banane lame </br> Ambre brut </br> Opale brut </br> Topaze brut </br> Rubis brut </br> Saphir brut </br> Sabre tranche-vent |       |
 
   **Disponible uniquement après avoir vaincu Kohga
