@@ -16,7 +16,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Bokoblin noir | ![BokoblinNoir](https://static.wikia.nocookie.net/zelda/images/5/57/BOTW_Bokoblin_Noir_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234300&path-prefix=fr) | 240 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin ||
 | Stalbokoblin | ![Stalbokoblin](https://static.wikia.nocookie.net/zelda/images/5/5e/BOTW_Stalbokoblin_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234716&path-prefix=fr) | 1 | Croc de Bokoblin </br> Corne de Bokoblin ||
 | Bokoblin d'argent | ![BokoblinDArgent](https://static.wikia.nocookie.net/zelda/images/0/03/BOTW_Bokoblin_Argent_Encyclop%C3%A9die_Hyrule.png/revision/latest/scale-to-width-down/120?cb=20171110234729&path-prefix=fr) | 720 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
-| *Bokoblin doré* | ![BokoblinDoré](https://static.wikia.nocookie.net/zelda/images/1/15/150px-BotW_Hyrule_Compendium_Golden_Bokoblin.jpg/revision/latest?cb=20180602041724&path-prefix=fr) | 1080 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
+| *Bokoblin doré** | ![BokoblinDoré](https://static.wikia.nocookie.net/zelda/images/1/15/150px-BotW_Hyrule_Compendium_Golden_Bokoblin.jpg/revision/latest?cb=20180602041724&path-prefix=fr) | 1080 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut ||
   
   **Disponible uniquement en mode expert
   
@@ -31,7 +31,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Moblin noir | ![MoblinNoir](https://static.wikia.nocookie.net/zelda/images/7/77/BOTW_Encyclopedie_Moblin_noir.jpg/revision/latest/scale-to-width-down/120?cb=20180317153614&path-prefix=fr) | 360 | Croc de Moblin </br> Corne de Moblin </br> Viscère de Moblin |       |
 | Stalmoblin | ![Stalmoblin](https://static.wikia.nocookie.net/zelda/images/5/5d/BOTW_Encyclopedie_Stalmoblin.jpg/revision/latest/scale-to-width-down/120?cb=20180604134510&path-prefix=fr) | 1 | Croc de Moblin </br> Corne de Moblin |       |
 | Moblin d'argent | ![MoblinDArgent](https://static.wikia.nocookie.net/zelda/images/b/b8/BOTW_Encyclopedie_Moblin_d_argent.jpg/revision/latest/scale-to-width-down/120?cb=20180317153803&path-prefix=fr) | 1080 | Croc de Moblin </br> Corne de Moblin </br> Viscère de Moblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut |       |
-| *Moblin doré* | ![MoblinDore](https://static.wikia.nocookie.net/zelda/images/9/9f/BOTW_Encyclopedie_Moblin_dore.jpg/revision/latest/scale-to-width-down/120?cb=20180317153900&path-prefix=fr) | 1620 | Croc de Moblin </br> Corne de Moblin </br> Viscère de Moblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut |       |
+| *Moblin doré** | ![MoblinDore](https://static.wikia.nocookie.net/zelda/images/9/9f/BOTW_Encyclopedie_Moblin_dore.jpg/revision/latest/scale-to-width-down/120?cb=20180317153900&path-prefix=fr) | 1620 | Croc de Moblin </br> Corne de Moblin </br> Viscère de Moblin </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut |       |
 
   **Disponible uniquement en mode expert
 
@@ -42,7 +42,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Nom | apparence | points de vie | loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Sous-fifre Yiga | ![SousFifreYiga](https://static.wikia.nocookie.net/zelda/images/f/f6/BOTW_Encyclopedie_Sous_fifre_Yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317165955&path-prefix=fr) | 64 | Bananes lame </br> Rubis (vert à violet) </br> Arc à double encoche </br> Serpe Coupe-Gorge </br> Tranche-Démons |       |
-| *Sous-fifre Yiga* | ![SousFifreYiga](https://static.wikia.nocookie.net/zelda/images/f/f6/BOTW_Encyclopedie_Sous_fifre_Yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317165955&path-prefix=fr) | 64 | Bananes lame </br> Rubis (vert à violet) </br> Arc à double encoche </br> Serpe Coupe-Gorge </br> Tranche-Démons |       |
+| *Sous-fifre Yiga** | ![SousFifreYiga](https://static.wikia.nocookie.net/zelda/images/f/f6/BOTW_Encyclopedie_Sous_fifre_Yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317165955&path-prefix=fr) | 64 | Bananes lame </br> Rubis (vert à violet) </br> Arc à double encoche </br> Serpe Coupe-Gorge </br> Tranche-Démons |       |
 | Officier Yiga | ![OfficierYiga](https://static.wikia.nocookie.net/zelda/images/7/72/BOTW_Encyclopedie_Officier_yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317170105&path-prefix=fr) | 400 | Banane lame </br> Ambre brut </br> Opale brut </br> Topaze brut </br> Rubis brut </br> Saphir brut </br> Sabre tranche-vent |       |
 
   **Disponible uniquement après avoir vaincu Kohga
@@ -61,7 +61,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Lézalfos de glace | ![LézalfosDeGlace](https://static.wikia.nocookie.net/zelda/images/a/a1/BOTW_Encyclopedie_Lezalfos_de_glace.jpg/revision/latest/scale-to-width-down/120?cb=20180317154651&path-prefix=fr) | 288 | Griffe de Lézalfos </br> Corne de Lézalfos </br> Queue bleue de Lézalfos |       |
 | Lézalfos électrique | ![LézalfosElectrique](https://static.wikia.nocookie.net/zelda/images/3/3b/BOTW_Encyclopedie_Lezalfos_electrique.jpg/revision/latest/scale-to-width-down/120?cb=20180317154744&path-prefix=fr) | 288 | Griffe de Lézalfos </br> Corne de Lézalfos </br> Queue jaune de Lézalfos |       |
 | Lézalfos d'argent | ![LézalfosDArgent](https://static.wikia.nocookie.net/zelda/images/6/62/BOTW_Encyclopedie_Lezalfos_d_argent.jpg/revision/latest/scale-to-width-down/120?cb=20180317154824&path-prefix=fr) | 864 | Griffe de Lézalfos </br> Corne de Lézalfos </br> Queue de Lézalfos </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut |       |
-| *Lézalfos doré* | ![LézalfosDoré](https://static.wikia.nocookie.net/zelda/images/f/f1/BOTW_Encyclopedie_Lezalfos_dore.jpg/revision/latest/scale-to-width-down/120?cb=20180317154910&path-prefix=fr) | 1296 | Griffe de Lézalfos </br> Corne de Lézalfos </br> Queue de Lézalfos </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut |       |
+| *Lézalfos doré** | ![LézalfosDoré](https://static.wikia.nocookie.net/zelda/images/f/f1/BOTW_Encyclopedie_Lezalfos_dore.jpg/revision/latest/scale-to-width-down/120?cb=20180317154910&path-prefix=fr) | 1296 | Griffe de Lézalfos </br> Corne de Lézalfos </br> Queue de Lézalfos </br> Ambre brut </br> Opale brute </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut |       |
 
   **Disponible uniquement en mode expert
 
@@ -75,7 +75,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Lynel bleu | ![LynelBleu](https://static.wikia.nocookie.net/zelda/images/d/d5/BOTW_Encyclopedie_Lynel_bleu.jpg/revision/latest/scale-to-width-down/120?cb=20180317155212&path-prefix=fr) | 3000 | Corne de Lynel </br> Sabot de Lynel </br> Viscère de Lynel |       |
 | Lynel blanc | ![LynelBlanc](https://static.wikia.nocookie.net/zelda/images/8/80/BOTW_Encyclopedie_Lynel_blanc.jpg/revision/latest/scale-to-width-down/120?cb=20180317155408&path-prefix=fr) | 4000 | Corne de Lynel </br> Sabot de Lynel </br> Viscère de Lynel |       |
 | Lynel d'argent | ![LynelDArgent](https://static.wikia.nocookie.net/zelda/images/0/05/BOTW_Encyclopedie_Lynel_d_argent.jpg/revision/latest/scale-to-width-down/120?cb=20180317155510&path-prefix=fr) | 5000 | Corne de Lynel </br> Sabot de Lynel </br> Viscère de Lynel </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut </br> Fragment d'étoile |       |
-| *Lynel doré* | ![LynelDoré](https://static.wikia.nocookie.net/zelda/images/e/e6/BOTW_Encyclopedie_Lynel_dore.jpg/revision/latest/scale-to-width-down/120?cb=20180317155738&path-prefix=fr) | 7500 | Corne de Lynel </br> Sabot de Lynel </br> Viscère de Lynel </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut </br> Fragment d'étoile |       |
+| *Lynel doré** | ![LynelDoré](https://static.wikia.nocookie.net/zelda/images/e/e6/BOTW_Encyclopedie_Lynel_dore.jpg/revision/latest/scale-to-width-down/120?cb=20180317155738&path-prefix=fr) | 7500 | Corne de Lynel </br> Sabot de Lynel </br> Viscère de Lynel </br> Topaze brute </br> Rubis brut </br> Saphir brut </br> Diamant brut </br> Fragment d'étoile |       |
 
   **Disponible uniquement en mode expert
 
