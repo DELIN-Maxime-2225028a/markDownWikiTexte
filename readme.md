@@ -51,16 +51,33 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 
 | Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
 | :------------ | :-------------: | -------------: | :---: | :---: |
-| Lythorok      |   **Alignée au**    |      300 |   Forme de base    |    Silex <br> Ambre brut <br> Opale brut <br> Rubis brut   |
-| Lythorok nox  |   **Alignée au**    |      600 |   Le filon de minerais brille la nuit    |   Silex <br> Ambre brut <br> Opale brute <br> Topaze brute <br> Diamant brut <br> Gemme nox |
-| Lythorok rare |   **Alignée au**    |      900 |   Le filon de minerais se trouve parfois dans son dos    |  Silex <br> Ambre brut <br> Opale brute <br> Topaze brute <br> Rubis brut <br> Saphir brut <br> Diamant brut     |
-| Magrok        |   **Alignée au**    |      900 |   Ne peut être grimpé tant qu'il n'est pas refroidi avec de la glace    |   Silex <br> Opale brute <br> Rubis brut <br> Diamant brut     |
-| Cryorok       |   **Alignée au**    |      900 |   Ne peut être grimpé tant que la glace sur son corps n'a pas été fondu avec du feu   |   Silex <br> Opale brute <br> Saphir brut <br>Diamant brut     |
-| *Méga Magrok* *        |   Alignée au    |      ??? |   Une version plus imposante et plus puissante du Magrok <br> Est entouré d'un lac de lave <br> Ne peut être grimpé tant qu'il n'est pas refroidi avec de la glace    |   Pas de loot    |
+| Lythorok      |  ![Lithorok](https://www.zeldadungeon.net/wiki/images/2/28/Stone-talus.jpeg)    |      300 |   Forme de base    |    Silex <br> Ambre brut <br> Opale brut <br> Rubis brut   |
+| Lythorok nox  | ![Lithorok nox](https://www.zeldadungeon.net/wiki/images/1/19/Stone-talus-luminous.jpg)    |      600 |   Le filon de minerais brille la nuit    |   Silex <br> Ambre brut <br> Opale brute <br> Topaze brute <br> Diamant brut <br> Gemme nox |
+| Lythorok rare | ![Lithorok rare](https://www.zeldadungeon.net/wiki/images/9/9d/Stone-talus-rare.jpg)    |      900 |   Le filon de minerais se trouve parfois dans son dos    |  Silex <br> Ambre brut <br> Opale brute <br> Topaze brute <br> Rubis brut <br> Saphir brut <br> Diamant brut     |
+| Magrok        |  ![Magrok](https://www.zeldadungeon.net/wiki/images/d/d5/Igneo-talus.jpg)    |      900 |   Ne peut être grimpé tant qu'il n'est pas refroidi avec de la glace    |   Silex <br> Opale brute <br> Rubis brut <br> Diamant brut     |
+| Cryorok       |  ![Cryorok](https://www.zeldadungeon.net/wiki/images/7/7a/Frost-talus.jpg)    |      900 |   Ne peut être grimpé tant que la glace sur son corps n'a pas été fondu avec du feu   |   Silex <br> Opale brute <br> Saphir brut <br>Diamant brut     |
+| *Méga Magrok* *  |  ![Mega Magrok](https://www.zeldadungeon.net/wiki/images/b/b2/Igneo-titan.jpg)  |      ??? |   Une version plus imposante et plus puissante du Magrok <br> Est entouré d'un lac de lave <br> Ne peut être grimpé tant qu'il n'est pas refroidi avec de la glace    |   Pas de loot    |
 
 * #### Moldaquor
 
 | Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
 | :------------ | :-------------: | -------------: | :---: | :---: |
-| Moldaquor     |   Alignée au    |      1500 |    Forme de base   |   Viscère de Moldarquor <br> Aileron de Moldarquor <br> Coffre    |
-| *Arquor Rex* *   |     Centre      |         ??? |   Une version plus imposante et plus puissante du Moldaquor <br> Contrairement à la forme de base, est faible face aux armes électriques    |   Coffres <br> Armes    |
+| Moldaquor     | ![Moldaquor](https://static.wikia.nocookie.net/zelda/images/2/26/BOTW_Encyclopedie_Moldarquor.jpg/revision/latest/scale-to-width-down/120?cb=20180317175115&path-prefix=fr)    |      1500 |    Forme de base   |   Viscère de Moldarquor <br> Aileron de Moldarquor <br> Coffre    |
+| *Arquor Rex* *   | ![Arquor Rex](https://static.wikia.nocookie.net/zelda/images/c/ca/BOTW_Encyclopedie_Arquor_Rex.jpg/revision/latest/scale-to-width-down/120?cb=20180317175919&path-prefix=fr)      |         ??? |   Une version plus imposante et plus puissante du Moldaquor <br> Contrairement à la forme de base, est faible face aux armes électriques    |   Coffres <br> Armes    |
+
+### Liste des boss :
+
+* #### Moldaquor  
+
+* #### AAAA  
+
+* #### AAAA  
+
+* #### AAAA  
+
+* #### AAAA  
+
+* #### AAAA  
+
+
+
