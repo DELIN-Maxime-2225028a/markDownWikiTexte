@@ -1,11 +1,12 @@
-# Zelda : Breath of the Wild
-----
+# **Zelda : Breath of the Wild**
+================================  
+
 *The Legend of Zelda* est un jeu d'action et d'aventure solo de type **Open-World** développé par Nintendo. Sorti le *3 mars 2017* sur les consoles de salon *Switch* et *Wii U*.  
 Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et va arpenter le monde d'Hyrule dans le but de retrouver la mémoire et vaicre Ganon. Tout au long de leur périple, les joueurs vont rencontrer des ennemis. *A noter que certains ennemis n'apparaissent qu'après avoir terminé certaines parties du scénario principal.*
 
 ----
 
-### Liste des ennemis communs :
+### **Liste des ennemis communs** :
 
 * ##### Bokoblins
 
@@ -36,7 +37,8 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Lézalfos      |     Centre      |         Droite |       |       |
 | Lynel         |   Alignée au    |      Alignée à |       |       |
 
-### Liste des mini-boss :  
+----
+### **Liste des mini-boss** :  
 
 * #### Hinox
 
@@ -65,19 +67,43 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 | Moldaquor     | ![Moldaquor](https://static.wikia.nocookie.net/zelda/images/2/26/BOTW_Encyclopedie_Moldarquor.jpg/revision/latest/scale-to-width-down/120?cb=20180317175115&path-prefix=fr)    |      1500 |    Forme de base   |   Viscère de Moldarquor <br> Aileron de Moldarquor <br> Coffre    |
 | *Arquor Rex* *   | ![Arquor Rex](https://static.wikia.nocookie.net/zelda/images/c/ca/BOTW_Encyclopedie_Arquor_Rex.jpg/revision/latest/scale-to-width-down/120?cb=20180317175919&path-prefix=fr)      |         ??? |   Une version plus imposante et plus puissante du Moldaquor <br> Contrairement à la forme de base, est faible face aux armes électriques    |   Coffres <br> Armes    |
 
+----
 ### Liste des boss :
 
-* #### Moldaquor  
+* #### Ombre d'eau de Ganon  
 
-* #### AAAA  
 
-* #### AAAA  
 
-* #### AAAA  
+* #### Ombre de feu de Ganon  
 
-* #### AAAA  
+* #### Ombre de vent de Ganon  
 
-* #### AAAA  
+* #### Ombre de foudre de Ganon  
+
+* #### Ganon le Fléau  
+
+* #### Ganon, Créature maléfique  
+
+* #### Le Grand Kohga  
+
+* #### *Guide Miz'Kyosia* *  
+
+Le Guide Miz'Kyosia est un boss exclusif au DLC2 "Ode aux Prodiges" disponible après avoir complété les quêtes de 4 prodiges : 
+- "EX La chanson de Mipha" 
+- "EX La chanson de Revali" 
+- "EX La chanson de Daruk"
+- "EX La chanson d'Urbosa"
+Une fois les quêtes terminée, rendez vous au Sanctuaire de la Renaissance et entrez dans la créature divine, le boss vous attendra au bout du donjon.  
+
+Le Combat :  
+=
+
+- Phase 1 : 
+- Phase 2 : 
+- Phase 3 : 
+- Phase 4 : 
+
+
 
 
 
