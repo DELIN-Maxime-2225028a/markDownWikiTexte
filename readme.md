@@ -42,30 +42,25 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 
 | Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
 | :------------ | :-------------: | -------------: | :---: | :---: |
-| Hinox         |   **Alignée au**    |      600 |   Forme de base    |    Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Pomme <br> Baie <br> Noix de coco <br> Fruit volt <br> Banane lame <br> Citrouille armo <br> Durian max    |
-| Hinox bleu    |   **Alignée au**    |      800 |   Fais plus de dégâts <br> Possède parfois des protections en bois sur les jambes    |    Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Perche grillée <br> Perche max grillée <br> Saumon max grillé <br> Truite grillée <br> Carpe grillée <br> Daurade grillée <br> Escargot silencio grillé <br> Turbo max grillé <br> Crabe grillé    |
-| Hinox noir    |   **Alignée au**    |     1000 |    Fais de gros dégâts <br> Utilise des armes <br> Peut lancer des tonneaux explosifs <br> Possède des protections en métal sur les jambes   |   Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Viande grillée <br> Viande fine grillée <br> Viande divine grillée <br> Volaille grillée <br> Volaille fine grillée <br> Volaille divine grillée    |
-| Stalhinox     |     **Centre**      |     1000 |    Fais de gros dégâts <br> Ne peut mourir que si son œil a subi suffisamment de dégâts   |    Dent d'Hinox    |
+| Hinox         | ![Hinox rouge] (https://www.zeldadungeon.net/wiki/images/thumb/a/ac/Hinox-botw.jpg/200px-Hinox-botw.jpg)    |      600 |   Forme de base    |    Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Pomme <br> Baie <br> Noix de coco <br> Fruit volt <br> Banane lame <br> Citrouille armo <br> Durian max    |
+| Hinox bleu    | ![Hinox bleu] (https://www.zeldadungeon.net/wiki/images/thumb/f/fe/Blue-hinox.jpg/120px-Blue-hinox.jpg)    |      800 |   Fais plus de dégâts <br> Possède parfois des protections en bois sur les jambes    |    Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Perche grillée <br> Perche max grillée <br> Saumon max grillé <br> Truite grillée <br> Carpe grillée <br> Daurade grillée <br> Escargot silencio grillé <br> Turbo max grillé <br> Crabe grillé    |
+| Hinox noir    |  ![Hinox noir] (https://www.zeldadungeon.net/wiki/images/thumb/5/54/Black-hinox.jpg/120px-Black-hinox.jpg)    |     1000 |    Fais de gros dégâts <br> Utilise des armes <br> Peut lancer des tonneaux explosifs <br> Possède des protections en métal sur les jambes   |   Dent d'Hinox <br> Ongle d'Hinox <br> Viscère d'Hinox <br> Viande grillée <br> Viande fine grillée <br> Viande divine grillée <br> Volaille grillée <br> Volaille fine grillée <br> Volaille divine grillée    |
+| Stalhinox     | ![Stalhinox] (https://www.zeldadungeon.net/wiki/images/f/f0/Stalnox.jpg)  |     1000 |    Fais de gros dégâts <br> Ne peut mourir que si son œil a subi suffisamment de dégâts   |    Dent d'Hinox    |
 
 * #### Lythorok
 
 | Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
 | :------------ | :-------------: | -------------: | :---: | :---: |
-| Lythorok      |   Alignée au    |      300 |   Forme de base    |    Silex <br> Ambre brut <br> Opale brut <br> Rubis brut   |
-| Lythorok nox  |   Alignée au    |      600 |   Le filon de minerais brille la nuit    |   Silex <br> Ambre brut <br> Opale brute <br> Topaze brute <br> Diamant brut <br> Gemme nox |
-| Lythorok rare |   Alignée au    |      900 |   Le filon de minerais se trouve parfois dans son dos    |  Silex <br> Ambre brut <br> Opale brute <br> Topaze brute <br> Rubis brut <br> Saphir brut <br> Diamant brut     |
-| Magrok        |   Alignée au    |      900 |   Ne peut être grimpé tant qu'il n'est pas refroidi avec de la glace    |   Silex <br> Opale brute,
-Rubis brut,
-Diamant brut     |
-| Cryorok       |   Alignée au    |      900 |   Ne peut être grimpé tant que la glace sur son corps n'a pas été fondu avec du feu   |   Silex,
-Opale brute,
-Saphir brut,
-Diamant brut     |
-| Méga Magrok        |   Alignée au    |      ??? |   Ne peut être grimpé tant qu'il n'est pas refroidi avec de la glace    |       |
+| Lythorok      |   **Alignée au**    |      300 |   Forme de base    |    Silex <br> Ambre brut <br> Opale brut <br> Rubis brut   |
+| Lythorok nox  |   **Alignée au**    |      600 |   Le filon de minerais brille la nuit    |   Silex <br> Ambre brut <br> Opale brute <br> Topaze brute <br> Diamant brut <br> Gemme nox |
+| Lythorok rare |   **Alignée au**    |      900 |   Le filon de minerais se trouve parfois dans son dos    |  Silex <br> Ambre brut <br> Opale brute <br> Topaze brute <br> Rubis brut <br> Saphir brut <br> Diamant brut     |
+| Magrok        |   **Alignée au**    |      900 |   Ne peut être grimpé tant qu'il n'est pas refroidi avec de la glace    |   Silex <br> Opale brute <br> Rubis brut <br> Diamant brut     |
+| Cryorok       |   **Alignée au**    |      900 |   Ne peut être grimpé tant que la glace sur son corps n'a pas été fondu avec du feu   |   Silex <br> Opale brute <br> Saphir brut <br>Diamant brut     |
+| *Méga Magrok* *        |   Alignée au    |      ??? |   Une version plus imposante et plus puissante du Magrok <br> Est entouré d'un lac de lave <br> Ne peut être grimpé tant qu'il n'est pas refroidi avec de la glace    |   Pas de loot    |
 
 * #### Moldaquor
 
 | Nom           |   Apparence     |  Points de vie | Particularité  | Loot |
 | :------------ | :-------------: | -------------: | :---: | :---: |
-| Moldaquor     |   Alignée au    |      Alignée à |       |       |
-| *Arquor Rex**   |     Centre      |         Droite |       |       |
+| Moldaquor     |   Alignée au    |      1500 |    Forme de base   |   Viscère de Moldarquor <br> Aileron de Moldarquor <br> Coffre    |
+| *Arquor Rex* *   |     Centre      |         ??? |   Une version plus imposante et plus puissante du Moldaquor <br> Contrairement à la forme de base, est faible face aux armes électriques    |   Coffres <br> Armes    |
