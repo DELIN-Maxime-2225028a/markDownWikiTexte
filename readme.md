@@ -2,7 +2,7 @@
 ================================  
 
 *The Legend of Zelda* est un jeu d'action et d'aventure solo de type **Open-World** développé par Nintendo. Sorti le *3 mars 2017* sur les consoles de salon *Switch* et *Wii U*.  
-Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et va arpenter le monde d'Hyrule dans le but de retrouver la mémoire et vaicre Ganon. Tout au long de leur périple, les joueurs vont rencontrer des ennemis. *A noter que certains ennemis n'apparaissent qu'après avoir terminé certaines parties du scénario principal.*
+Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et va arpenter le monde d'Hyrule dans le but de retrouver la mémoire et vaincre Ganon. Tout au long de leur périple, les joueurs vont rencontrer des ennemis. *A noter que certains ennemis n'apparaissent qu'après avoir terminé certaines parties du scénario principal.*
 
 ----
 
@@ -70,7 +70,16 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 ----
 ### Liste des boss :
 
-* #### Ombre d'eau de Ganon  
+* #### Ombre d'Eau de Ganon  
+
+Le thème :  
+<!-- markdownlint-disable MD033 -->
+<audio controls>
+    <source src="https://www.palaiszelda.com/cado/mp3s_/botw/078_Waterblight_Ganon_Phase_1.mp3">
+</audio>
+<!-- markdownlint-enable MD033 -->  
+
+![Ombre d'Eau de Ganon](https://www.palaiszelda.com/images/z19/boss/ombre_eau.jpg)  
 
 Le boss du donjon de la créature divine Vah'Ruta. Armé d'une lance gigantesque qui peut faire des ravages, il est spécialisé dans les attaques de mélée longue portée et les attaques de glace. Pour le vaincre venez armé d'un arc et d'un bon nombre de flèche selon vos talents en archerie. Il est aussi grandement recommandé de venir avec des flèches archéoniques, celles-ci lui feront de gros dégâts.  
 
@@ -93,7 +102,10 @@ Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans l
 Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
 **PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. Un vrai calvaire dont la deuxième phase vous demandera concentration. Vous pourriez même vous retrouver dans l'incapacité de le blesser si vous consommez toutes vos flèches.
 
-* #### Ombre de feu de Ganon  
+* #### Ombre de Feu de Ganon  
+
+
+![Ombre de Feu de Ganon](https://www.palaiszelda.com/images/z19/boss/ombre_feu.jpg)  
 
 Le boss du donjon de la créature divine Vah'Rudania. Armé d'une épee gigantesque qui peut faire de gros dégâts et capable de manier la magie, il est spécialisé dans les attaques de combat et les attaques de feu. Pour le vaincre, venez armé d'un arc et de quelques flèches de glaces et archéonique pour lui faire de gros dégâts.
 
@@ -115,7 +127,10 @@ Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans l
 Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
 **PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. La difficulté du combat n'est cependant pas la plus grande à laquelle s'attendre quand on compare avec d'autres boss.  
 
-* #### Ombre de vent de Ganon  
+* #### Ombre de Vent de Ganon  
+
+
+![Ombre de Vent de Ganon](https://www.palaiszelda.com/images/z19/boss/ombre_vent.jpg)  
 
 Le boss du donjon de la créature divine Vah'Medoh. Armé d'un canon laser, il est spécialisé dans les attaques à distance et les attaques de vent. Pour le vaincre, venez armé de plusieurs arcs et beaucoup de flèches simples et explosives car le combat se déroulera principalement à distance. Il est aussi grandement recommandé de venir avec des flèches archéoniques, celles-ci lui feront de gros dégâts.  
 
@@ -137,7 +152,10 @@ Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans l
 Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
 **PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. La difficulté du combat n'est cependant pas la plus grande à laquelle s'attendre quand on compare avec d'autres boss.  
 
-* #### Ombre de foudre de Ganon  
+* #### Ombre de Foudre de Ganon  
+
+
+![Ombre de Foudre de Ganon](https://www.palaiszelda.com/images/z19/boss/ombre_foudre.jpg)  
 
 Le boss du donjon de la créature divine Vah'Naboris et l'un des boss les plus dur du jeu. Armé d'une petite épée et d'un bouclier, ce boss très agile est spécialisé dans les attaques de combat-rapproché et sait manier la foudre. Pour le vaincre, maitrisez à la perfection l'art de l'esquive et de la contre-attaque, vous en aurez besoin. Venez aussi avec des boucliers non métaliques pour les parades voire la tenue isolante si vous avez débloqué l'amélioration de protection face à l'électricité.  
 
@@ -162,15 +180,39 @@ Une fois vaincu pour la première fois, vous pourrez le battre autant de fois qu
 
 * #### Ganon le Fléau  
 
-C'est la première forme du boss final du jeu. Il ressemble à une grosse araignée à 10 pattes, il en utilise 4 pour se déplacer, le reste est utilisé pour vous attaquer : sur son côté droit il a l'épée de l'Ombre de Foudre, une main griffue et l'épée de l'Ombre de Feu tandis que sur le gauche il a la lance de l'Ombre de l'Eau, le canon laser de l'Ombre de Vent et une paire de petits sciseaux lasers.  
+![Ganon Fleau](https://www.palaiszelda.com/images/z19/soluce/21_01.jpg)  
+
+C'est la première forme du boss final du jeu se situant au coeur du Château d'Hyrule. Il ressemble à une grosse araignée à 10 pattes, il en utilise 4 pour se déplacer, le reste est utilisé pour vous attaquer : sur son côté droit il a l'épée de l'Ombre de Foudre, une main griffue et l'épée de l'Ombre de Feu tandis que sur le gauche il a la lance de l'Ombre de l'Eau, le canon laser de l'Ombre de Vent et une paire de petits sciseaux lasers. Pour le vaicre, il est recommandé de venir avec la Master Sword, le bouclier Hylia, des flèches archéoniques et des plats de renforcement et de soin.  
+
+Le Combat :  
+-----------
+
+Dès le début du combat, selon si vous avez libéré les créatures divines des Prodiges, une partie des points de vie de Ganon lui seront enlevé (jusqu'à 50%). Vous devrez combattre toutes les Ombres que vous n'avez pas encore terrassé avant qu'il n'apparaisse dans le cas contraire.  
+- Phase 1 : Durant cette phase, le Boss utilisera une grande variété d'attaques propres à chacune des Ombres de Vent, Feu, Foudre et Eau contrables de la même manière que lors de vos combats contre les Ombres. Il se peut que le boss se sente trop menacé pendant le combat, il grimpera alors sur les murs pour vous attaquer. Vous pourrez alors le faire tomber grâce à quelques flèches bien placées ou le pouvoir d'Urbosa. 
+- Phase 2 : Dans cette deuxième phase, Ganon s'entoure d'un bouclier qui enflame sur corps et le protège de toute attaque. même les flèches archéoniques ne lui feront rien. Pour le toucher, il faut donc : soit effectuer des esquives parfaites pour contre-attaquer, soit utiliser la Colère d'Urbosa pour le paralyser et le rendre vulnérable pendant quelques secondes.  
 
 * #### Ganon, Créature maléfique  
+
+
+![Ganon Creature](https://static.wikia.nocookie.net/zelda/images/4/47/Link_et_Epona_contre_Ganon_BOTW.jpg/revision/latest?cb=20170420113549&path-prefix=fr)  
+
+Un phacochère géant et ténébreux à la crinière enflammée apparaît  dans la Plaine d'Hyrule! C'est la forme ultime de Ganon et étonnament l'un des boss les plus simples du jeu... Le combat n'est vraiment pas compliqué : dès le début, la princesse Zelda vous confie l'arc de lumière aux munitions infinies. Montez sur votre cheval et visez les zones brillantes sur le corps du boss, c'est tout ce que vous avez à faire. Même l'esquive n'est pas un problème puisque sa seule attaque est de cracher un énorme rayon rouge qui vous ratera les 90% du temps. Pour gagner, il suffira de tirer dans l'oeil sur sa tête quand celui-ci sera révélé.
 
 * #### Le Grand Kohga  
 
 
+![Grand Kohga](https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-legend-of-zelda-hd/6/63/Master_kohga_pose.jpg)  
+
+C'est un boss qui n'en est pas vraiment un. Chef du clan des Yiga, ses attaques consitent à vous lancer des boules toujours plus grandes et dangereuses jusqu'à ce qu'il en invoque une si énorme qu'elle fini par lui revenir dessus et le faire tomber au fond du gouffre au milieu de l'arène.  
+Le combat consiste en 3 phases : 
+- Phase 1 : Kohga se protégera derrière un bouclier qu’il abaissera pour vous lancer une boule de pierre. Tirez lui dessus quand le projectile apparait pour qu'il lui retombe dessus et le fasse s'écraser au sol.  
+- Phase 2 : S'active une fois la barre de vie descendue à 75%. Kohga fait apparaître deux boules qu’il fait tourner autour de lui. Attendez qu’il dissipe son bouclier et tirez-lui dessus lorsqu'une des boules est au-dessus de lui pour qu’il s’assomme.  
+- Phase 3 : Kohga fait apparaître une grosse boule avec des piques, en métal. Utilisez le module Polaris pour attraper la boule et attaquer Kohga avec jusqu'à la fin du combat.
 
 * #### *Guide Miz'Kyosia* *  
+
+
+![Miz'Kyosia](https://cdn.supersoluce.com/file/docs/docid_539766168f152f271c000032/elemid_4ee9fac00a2fe93e0e000014/thumb_1516017780-1.jpg)  
 
 Le Guide Miz'Kyosia est un boss exclusif au DLC2 "Ode aux Prodiges" disponible après avoir complété les quêtes de 4 prodiges : 
 - "EX La chanson de Mipha" 
@@ -189,6 +231,6 @@ Le Combat :
 
 Une fois Miz'Kyosia vaicu, vous obtiendrez la fameuse moto du DLC le *"Destrier de Légende 0.1"*, le Souvenir de l'Ode aux Prodiges ainsi que la Photo des Prodiges. Une récompense bien méritée quoiqu'un peu déçevante quand on sait que le Guide Miz'Kyosia est l'un des boss les plus durs du jeu.  
 
-----
+====
 *_Exclusif au mode expert du DLC1 "Les Epreuves Légendaires"_  
 /*/*_Exclusif au DLC2 "Ode aux Prodiges"_  
