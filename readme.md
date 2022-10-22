@@ -91,7 +91,8 @@ Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans l
 - Champignon d'Hyrule x1
 - Fruit de lotus tempo x1
 - Tenue zora  
-Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
+Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.   
+
 **PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. Un vrai calvaire dont la deuxième phase vous demandera concentration. Vous pourriez même vous retrouver dans l'incapacité de le blesser si vous consommez toutes vos flèches.
 
 * #### Ombre de Feu de Ganon  
@@ -115,6 +116,7 @@ Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans l
 - Pomme grillée x1
 - Tenue de pierre  
 Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
+
 **PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. La difficulté du combat n'est cependant pas la plus grande à laquelle s'attendre quand on compare avec d'autres boss.  
 
 * #### Ombre de Vent de Ganon  
@@ -138,6 +140,7 @@ Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans l
 - Flèches explosives x5
 - Tenue piaf 
 Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
+
 **PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. La difficulté du combat n'est cependant pas la plus grande à laquelle s'attendre quand on compare avec d'autres boss.  
 
 * #### Ombre de Foudre de Ganon  
@@ -162,6 +165,7 @@ Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans l
 - Champi volt x1
 - Tenue des Sablons  
 Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
+
 **PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. La difficulté du combat est nettement plus grande, de quoi vous occuper pendant un moment.  
 
 * #### Ganon le Fléau  
@@ -212,6 +216,6 @@ Une fois les quêtes terminée, rendez vous au Sanctuaire de la Renaissance et e
 
 Une fois Miz'Kyosia vaicu, vous obtiendrez la fameuse moto du DLC le *"Destrier de Légende 0.1"*, le Souvenir de l'Ode aux Prodiges ainsi que la Photo des Prodiges. Une récompense bien méritée quoiqu'un peu déçevante quand on sait que le Guide Miz'Kyosia est l'un des boss les plus durs du jeu.  
 
-====
+====  
 *_Exclusif au mode expert du DLC1 "Les Epreuves Légendaires"_  
-/*/*_Exclusif au DLC2 "Ode aux Prodiges"_  
+*\*_Exclusif au DLC2 "Ode aux Prodiges"_  
