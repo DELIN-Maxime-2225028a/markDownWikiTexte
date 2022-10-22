@@ -2,7 +2,7 @@
 ================================  
 
 *The Legend of Zelda* est un jeu d'action et d'aventure solo de type **Open-World** développé par Nintendo. Sorti le *3 mars 2017* sur les consoles de salon *Switch* et *Wii U*.  
-Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et va arpenter le monde d'Hyrule dans le but de retrouver la mémoire et vaincre Ganon. Tout au long de leur périple, les joueurs vont rencontrer des ennemis. *A noter que certains ennemis n'apparaissent qu'après avoir terminé certaines parties du scénario principal.*
+Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et va arpenter le monde d'Hyrule dans le but de retrouver la mémoire et vaincre Ganon. Tout au long de leur périple, les joueurs vont rencontrer des ennemis. *A noter que certains ennemis n'apparaissent qu'après avoir terminé certaines parties du scénario principal.*  
 _Pour tout "*", voir en fin de document pour la signification._  
 
 ----
