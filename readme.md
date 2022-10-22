@@ -11,7 +11,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Bokoblins
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Bokoblin | ![Bokoblin](https://static.wikia.nocookie.net/zelda/images/5/57/BOTW_Encyclop%C3%A9die_Bokoblin.png/revision/latest/scale-to-width-down/120?cb=20170812215749&path-prefix=fr)     | 13 | Croc de Bokoblin </br> Corne de Bokoblin ||
 | Bokoblin bleu | ![BokoblinBleu](https://static.wikia.nocookie.net/zelda/images/0/0e/BOTW_Encyclop%C3%A9die_Bokoblin_Bleu.png/revision/latest/scale-to-width-down/120?cb=20170812215751&path-prefix=fr) | 72 | Croc de Bokoblin </br> Corne de Bokoblin </br> Viscère de Bokoblin ||
@@ -24,7 +24,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Moblins
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Moblin        | ![Moblin](https://static.wikia.nocookie.net/zelda/images/c/c4/BOTW_Encyclopedie_Moblin.jpg/revision/latest/scale-to-width-down/120?cb=20180317153355&path-prefix=fr) | 56 | Croc de Moblin </br> Corne de Moblin |       |
 | Moblin bleu | ![MoblinBleu](https://static.wikia.nocookie.net/zelda/images/a/a8/BOTW_Encyclopedie_Moblin_bleu.jpg/revision/latest/scale-to-width-down/120?cb=20180317153527&path-prefix=fr) | 144 | Croc de Moblin </br> Corne de Moblin </br> Viscère de Moblin |       |
@@ -37,7 +37,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Yigas
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Sous-fifre Yiga | ![SousFifreYiga](https://static.wikia.nocookie.net/zelda/images/f/f6/BOTW_Encyclopedie_Sous_fifre_Yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317165955&path-prefix=fr) | 64 | Bananes lame </br> Rubis (vert à violet) </br> Arc à double encoche </br> Serpe Coupe-Gorge </br> Tranche-Démons |       |
 | _Sous-fifre Yiga_*\*\* | ![SousFifreYiga](https://static.wikia.nocookie.net/zelda/images/f/f6/BOTW_Encyclopedie_Sous_fifre_Yiga.jpg/revision/latest/scale-to-width-down/120?cb=20180317165955&path-prefix=fr) | 72 | Bananes lame </br> Rubis (vert à violet) </br> Arc à double encoche </br> Serpe Coupe-Gorge </br> Tranche-Démons |       |
@@ -49,7 +49,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Lézalfos
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Lézalfos | ![Lézalfos](https://static.wikia.nocookie.net/zelda/images/a/a0/BOTW_Encyclopedie_Lezalfos.jpg/revision/latest/scale-to-width-down/120?cb=20180317154019&path-prefix=fr) | 50 | Griffe de Lézalfos </br> Corne de Lézalfos |       |
 | Lézalfos bleu | ![LézalfosBleu](https://static.wikia.nocookie.net/zelda/images/f/f1/BOTW_Encyclopedie_Lezalfos_bleu.jpg/revision/latest/scale-to-width-down/120?cb=20180317154320&path-prefix=fr) | 120 | Griffe de Lézalfos </br> Corne de Lézalfos </br> Queue de Lézalfos |       |
@@ -65,7 +65,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Lynels
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Lynel | ![Lynel](https://static.wikia.nocookie.net/zelda/images/4/4a/BOTW_Encyclopedie_Lynel.jpg/revision/latest/scale-to-width-down/120?cb=20180317155051&path-prefix=fr) | 2000 | Corne de Lynel </br> Sabot de Lynel |       |
 | Lynel bleu | ![LynelBleu](https://static.wikia.nocookie.net/zelda/images/d/d5/BOTW_Encyclopedie_Lynel_bleu.jpg/revision/latest/scale-to-width-down/120?cb=20180317155212&path-prefix=fr) | 3000 | Corne de Lynel </br> Sabot de Lynel </br> Viscère de Lynel |       |
@@ -77,7 +77,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Gardiens
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Gardien à pied | ![GardienAPied](https://static.wikia.nocookie.net/zelda/images/d/de/BOTW_Encyclopedie_Gardien_a_pied.jpg/revision/latest/scale-to-width-down/120?cb=20180317155948&path-prefix=fr) | 1500 | Vis antique </br> Ressort antique </br> Rouage antique </br> Arbre antique </br> Cœur antique </br> Cœur antique géant |       |
 | Gardien détérioré | ![GardienDétérioré](https://static.wikia.nocookie.net/zelda/images/5/59/BOTW_Encyclopedie_Gardien_deteriore.jpg/revision/latest/scale-to-width-down/120?cb=20180317165352&path-prefix=fr) | 500 | Vis antique </br> Ressort antique </br> Rouage antique </br> Arbre antique |       |
@@ -92,7 +92,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Octoroks
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Octoflot | ![Octoflot](https://static.wikia.nocookie.net/zelda/images/9/91/BOTW_Octoflot_Encyclop%C3%A9die.png/revision/latest/scale-to-width-down/100?cb=20171009125856&path-prefix=fr) | 8 | Œil octo </br> Tentacule octo </br> Baudruche octo | / |
 | Octofourré | ![Octofourré](https://static.wikia.nocookie.net/zelda/images/8/8c/BOTW_Octofourr%C3%A9_Encyclop%C3%A9die.png/revision/latest/scale-to-width-down/100?cb=20171009130229&path-prefix=fr) | 8 | Œil octo </br> Tentacule octo </br> Baudruche octo | / |
@@ -104,7 +104,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Lithoroks
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Tilhorok | ![Tilhorok](https://static.wikia.nocookie.net/zelda/images/4/48/BOTW_Encyclopedie_Tilhorok.jpg/revision/latest/scale-to-width-down/120?cb=20180317173730&path-prefix=fr) | 20 | Silex </br> Ambre brut </br> pale brute | / |
 | Migrok | ![Migrok](https://static.wikia.nocookie.net/zelda/images/c/c0/BOTW_Encyclopedie_Migrok.jpg/revision/latest/scale-to-width-down/120?cb=20180317173936&path-prefix=fr) | 20 | Silex </br> Ambre brut </br> pale brute | / |
@@ -114,7 +114,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Chauves-souris
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Chauve-souris | ![ChauveSouris](https://static.wikia.nocookie.net/zelda/images/4/44/BOTW_Encyclop%C3%A9die_Chauve-Souris.png/revision/latest/scale-to-width-down/120?cb=20170924150031&path-prefix=fr) | 1 | Œil de Chauve-souris </br> Aile griffue | / |
 | Chauve-souris de feu | ![ChauveSourisDeFeu](https://static.wikia.nocookie.net/zelda/images/5/52/BOTW_Encyclop%C3%A9die_Chauve-Souris_de_Feu.png/revision/latest/scale-to-width-down/120?cb=20170924150054&path-prefix=fr) | 1 | Œil de Chauve-souris </br> Aile de feu | / |
@@ -125,7 +125,7 @@ _Pour tout "*", voir en fin de document pour la signification._
 
 * ##### Blobs
 
-| Nom | apparence | points de vie | loot | Armes |
+| Nom | Apparence | Points de vie | Loot | Armes |
 | :------------ | :-------------: | -------------: | :---: | :---: |
 | Chuchu | ![Chuchu](https://static.wikia.nocookie.net/zelda/images/8/86/BOTW_Encyclop%C3%A9die_Chuchu.png/revision/latest/scale-to-width-down/100?cb=20170923204609&path-prefix=fr) | 3 | Gelée chuchu | / |
 | Chuchu de feu | ![ChuchuDeFeu](https://static.wikia.nocookie.net/zelda/images/8/86/BOTW_Encyclop%C3%A9die_Chuchu_de_feu.png/revision/latest/scale-to-width-down/100?cb=20170923204656&path-prefix=fr) | 12 | Gelée chuchu rouge | / |
@@ -315,6 +315,6 @@ Une fois Miz'Kyosia vaicu, vous obtiendrez la fameuse moto du DLC le *"Destrier 
 
 ----    
 
-* _Exclusif au mode expert du DLC1 "Les Epreuves Légendaires"_  
+\* _Exclusif au mode expert du DLC1 "Les Epreuves Légendaires"_  
 *\* _Exclusif au DLC2 "Ode aux Prodiges"_  
 
