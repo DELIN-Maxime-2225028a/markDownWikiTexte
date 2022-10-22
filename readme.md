@@ -75,7 +75,7 @@ Le joueur incarne le personnage de Link se reveillant d'un coma de 100 ans, et v
 Le boss du donjon de la créature divine Vah'Ruta. Armé d'une lance gigantesque qui peut faire des ravages, il est spécialisé dans les attaques de mélée longue portée et les attaques de glace. Pour le vaincre venez armé d'un arc et d'un bon nombre de flèche selon vos talents en archerie. Il est aussi grandement recommandé de venir avec des flèches archéoniques, celles-ci lui feront de gros dégâts.  
 
 Le Combat :  
----
+-----------
 
 - Phase 1 : Le Boss ne possède que 4 attaques durant cette phase : il peut lancer son arme, balayer toute la surface devant lui d'un coup de lance, attaquer de la pointe de la lance vers l'avant, et planter sa lance dans le sol. Le combat est relativement simple : vous pouvez attaquer en mélée en esquivant/contre-attaquant et à distance en visant son oeil.
 - Phase 2 : S'active une fois la barre de vie descendue à 50%. Le Boss innonde la salle ne laissant plus que 4 plateformes flotantes pour se battre. Il se téléprote de plateforme en plateforme et utilise 2 nouvelles attaques en plus des anciennes : il jete des blocs de glace sur Link et tire des rayons laser par son oeil. Pour le contrer, utilisez le module Cryonis pour vous débarasser des blocs lancés et tirer sur son point faible et/ou renvoyez ses lasers en contrant avec un bouclier.  
@@ -95,33 +95,74 @@ Une fois vaincu pour la première fois, vous pourrez le battre autant de fois qu
 
 * #### Ombre de feu de Ganon  
 
-Le boss du donjon de la créature divine Vah'Rudania. Armé d'une épee gigantesque qui peut faire de gros dégâts et capable de manier la magie, il est spécialisé dans les attaques de combat et les attaques de feu. Pour le vaincre venez armé d'un arc et de quelques flèches de glaces et archéonique pour lui faire de gros dégâts.
+Le boss du donjon de la créature divine Vah'Rudania. Armé d'une épee gigantesque qui peut faire de gros dégâts et capable de manier la magie, il est spécialisé dans les attaques de combat et les attaques de feu. Pour le vaincre, venez armé d'un arc et de quelques flèches de glaces et archéonique pour lui faire de gros dégâts.
 
 Le Combat :  
----
+-----------
 
-- Phase 1 : Le Boss ne possède que 4 attaques durant cette phase : il peut lancer son arme, balayer toute la surface devant lui d'un coup de lance, attaquer de la pointe de la lance vers l'avant, et planter sa lance dans le sol. Le combat est relativement simple : vous pouvez attaquer en mélée en esquivant/contre-attaquant et à distance en visant son oeil.
-- Phase 2 : S'active une fois la barre de vie descendue à 50%. Le Boss innonde la salle ne laissant plus que 4 plateformes flotantes pour se battre. Il se téléprote de plateforme en plateforme et utilise 2 nouvelles attaques en plus des anciennes : il jete des blocs de glace sur Link et tire des rayons laser par son oeil. Pour le contrer, utilisez le module Cryonis pour vous débarasser des blocs lancés et tirer sur son point faible et/ou renvoyez ses lasers en contrant avec un bouclier.  
+- Phase 1 : Le Boss ne possède que 3 types d'attaques durant cette phase : il peut utiliser son épée pour faire des coups latéraux ou verticaux, et tirer quelques boules de feu. Le combat n'est pas très compliqué : vous pouvez l'attaquer en mélée en esquivant/contre-attaquant et à distance en visant son oeil.
+- Phase 2 : S'active une fois la barre de vie descendue à 50%. Le Boss ajoute un effet élémentaire de feu à son épée et utilise 2 nouvelles attaques en plus des anciennes : il aspire l'air environnant pour lancer d'énormes boules de feu sur Link et tire des rayons laser par son oeil. Pour le contrer, utilisez le module Bombe pour le blesser quand il charge sa boule de feu dans les air mais attention, un bouclier le protège des flèches pendant le chargement. Vous pouvez aussi tirer sur son point faible et/ou renvoyez ses lasers en contrant avec un bouclier.  
 
-Une fois le combat terminé dans le scénario principal, vous obtiendrez le pouvoir de la "Prière de Mipha".  
-Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans le DLC2 "Ode aux Prodiges". Durant le combat, vous n'aurez accès qu'à l'équipement qui vous sera donné :
-- Lance d’écaille radieuse x1
-- Lance de cérémonie x2
-- Arc zora x1
-- Flèches simples x10
-- Perche x1
-- Champignon d'Hyrule x1
-- Fruit de lotus tempo x1
-- Tenue zora  
+Une fois le combat terminé dans le scénario principal, vous obtiendrez le pouvoir du "Bouclier de Daruk".  
+Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans le DLC2 "Ode aux Prodiges". Durant le combat, vous n'aurez accès qu'à l'équipement qui vous sera donné :  
+- Brise-montagne x1
+- Arc de chevalier x1
+- Flèches de glace x5
+- Viande x1
+- Champi armo x1
+- Pomme grillée x1
+- Tenue de pierre  
 Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
-**PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. Un vrai calvaire dont la deuxième phase vous demandera concentration. Vous pourriez même vous retrouver dans l'incapacité de le blesser si vous consommez toutes vos flèches.
-
+**PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. La difficulté du combat n'est cependant pas la plus grande à laquelle s'attendre quand on compare avec d'autres boss.  
 
 * #### Ombre de vent de Ganon  
 
+Le boss du donjon de la créature divine Vah'Medoh. Armé d'un canon laser, il est spécialisé dans les attaques à distance et les attaques de vent. Pour le vaincre, venez armé de plusieurs arcs et beaucoup de flèches simples et explosives car le combat se déroulera principalement à distance. Il est aussi grandement recommandé de venir avec des flèches archéoniques, celles-ci lui feront de gros dégâts.  
+
+Le Combat :  
+-----------
+
+- Phase 1 : Le Boss ne possède que 2 types d'attaques durant cette phase : il peut tirer des projectiles lasers et lancer des tornades. Le combat n'est pas compliqué, juste un peu pénible car le boss reste élevé dans les airs et ne cesse de se téléporter : vous ne pouvez l'attaquer qu'à distance en visant son oeil avec des flèches simples ou explosives si possible. Pensez aussi à utiliser les courants ascendants pour profiter du temps ralenti quand vous tirez avec l'arc.  
+- Phase 2 : S'active une fois la barre de vie descendue à 50%. Le Boss invoque 4 objets volants sur lesquels ricochent ses tirs lasers pour attaquer de tous les côtés. Il devient plus imprévisible et augmente la puissance de ses attaques précédentes et peut désormais envoyer des boules d'air très rapides. Pour le contrer, vous pouvez utiliser la même technique que lors de la première phase mais aussi tirer sur les invocations volantes du boss pour les détruire.
+
+Une fois le combat terminé dans le scénario principal, vous obtiendrez le pouvoir de la "Rage de Revali".  
+Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans le DLC2 "Ode aux Prodiges". Durant le combat, vous n'aurez accès qu'à l'équipement qui vous sera donné :  
+- Lame rémige x1
+- Arc du faucon x1
+- Arc à double encoche x1
+- Arc de la dévotion x1
+- Flèches simples x100
+- Flèches explosives x5
+- Tenue piaf 
+Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
+**PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. La difficulté du combat n'est cependant pas la plus grande à laquelle s'attendre quand on compare avec d'autres boss.  
+
 * #### Ombre de foudre de Ganon  
 
+Le boss du donjon de la créature divine Vah'Naboris et l'un des boss les plus dur du jeu. Armé d'une petite épée et d'un bouclier, ce boss très agile est spécialisé dans les attaques de combat-rapproché et sait manier la foudre. Pour le vaincre, maitrisez à la perfection l'art de l'esquive et de la contre-attaque, vous en aurez besoin. Venez aussi avec des boucliers non métaliques pour les parades voire la tenue isolante si vous avez débloqué l'amélioration de protection face à l'électricité.  
+
+Le Combat :  
+-----------
+
+- Phase 1 : Bien qu'il n'ait que deux types d'attaque, ce Boss est viscieux ! Alors qu'il est éloigné, il peut se déplacer à la vitesse de l'éclair pour asséner un coup hyper rapide. Il est aussi capable de lancer des boules électriques rebondissant sur les murs, le sol et le plafond. Le combat est très difficile si vous n'êtes pas passé maitre en l'esquive avant de le débuter car il bloque toutes vos attaques au corps à corps et à distance avec son bouclier. La technique : esquivez pour déclencher des parades ou essayez de figer le boss avec le module Cinétis assez longtemps pour lui donner quelques coups, vous finirez bien par l'avoir à l'usure.  
+- Phase 2 : S'active une fois la barre de vie descendue à 50%. Le Boss ajoute un effet élémentaire de foudre à son épée et utilise 2 nouvelles attaques en plus des anciennes : Il lance des piliers métaliques autour de Link pour essayer de l'électrocuter ; Utilisez le module Polaris pour déplacer les piliers à côté du Boss pour qu'il s'electrocute lui-même. Il est aussi capable de tirez des rayons lasers avec son oeil.  
+
+Une fois le combat terminé dans le scénario principal, vous obtiendrez le pouvoir de la "Colère d'Urbosa".  
+Pour les plus téméraire, il est possible d'affronter le boss à nouveau dans le DLC2 "Ode aux Prodiges". Durant le combat, vous n'aurez accès qu'à l'équipement qui vous sera donné :  un cimeterre et un bouclier des sept joyaux, une longue épée de vertu et un bouclier de l’égide. Et pour vous sustenter, un maigre fruit volt, un champi volt et une venaison.
+- Cimeterre x1
+- Longue épée de vertue x 1
+- Bouclier des sept joyaux x1
+- Bouclier de l'égide x1
+- Fruit volt x1
+- Venaison x1
+- Champi volt x1
+- Tenue des Sablons  
+Une fois vaincu pour la première fois, vous pourrez le battre autant de fois que vous voulez.  
+**PS :** Le combat est encore plus dur en mode expert car votre équipement se brise plus rapidement et le boss régénère ses PV rapidement. La difficulté du combat est nettement plus grande, de quoi vous occuper pendant un moment.  
+
 * #### Ganon le Fléau  
+
+C'est la première forme du boss final du jeu. Il ressemble à une grosse araignée à 10 pattes, il en utilise 4 pour se déplacer, le reste est utilisé pour vous attaquer : sur son côté droit il a l'épée de l'Ombre de Foudre, une main griffue et l'épée de l'Ombre de Feu tandis que sur le gauche il a la lance de l'Ombre de l'Eau, le canon laser de l'Ombre de Vent et une paire de petits sciseaux lasers.  
 
 * #### Ganon, Créature maléfique  
 
